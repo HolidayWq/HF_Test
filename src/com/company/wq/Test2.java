@@ -2,7 +2,7 @@ package com.company.wq;
 
 public class Test2 {
     public static void main(String[] args) {
-        for (int i = 1; i < 20; i++) {
+        for (int i = 1; i < 101; i++) {
             int a = i % 3;
             int b = i % 5;
             int unit = i % 10;
