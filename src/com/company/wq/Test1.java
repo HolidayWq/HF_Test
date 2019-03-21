@@ -7,28 +7,7 @@ public class Test1 {
             int b = i % 5;
             result(a,b,i);
         }
-        /*int i=1;
 
-        while (i<=20){
-
-            if (i%3==0){
-                if (i%5==0){
-                    System.out.println("FizzBuzz");
-                    i++;
-                    continue;
-                }
-                System.out.println("Fizz");
-                i++;
-                continue;
-            }
-            if (i%5==0){
-                System.out.println("Buzz");
-                i++;
-                continue;
-            }
-            System.out.println(i);
-            i++;
-        }*/
     }
 
     /**
